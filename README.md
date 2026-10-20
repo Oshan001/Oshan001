@@ -1,4 +1,4 @@
-```markdown
+
 <!-- Oshan Bajracharya | GitHub Profile README -->
 
 <div align="center">
@@ -75,4 +75,4 @@ I learn best by building. Take a look at my repositories to see what I'm working
   <h3>💜 Thanks for stopping by!</h3>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=100&section=footer" width="100%" alt="Decorative footer wave" />
 </div>
-```
+
